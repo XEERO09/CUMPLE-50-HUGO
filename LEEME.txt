@@ -1,0 +1,7 @@
+PORTAFOLIO 50 · CUMPLEAÑOS
+
+1. Extraé el ZIP completo.
+2. Abrí index.html en Chrome.
+3. Para publicar en GitHub Pages, subí index.html, styles.css, script.js y la carpeta images al nivel raíz del repositorio.
+
+Las 48 fotografías están incluidas.
